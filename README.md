@@ -1,0 +1,1 @@
+Im about to make some moves in silence again just letting yall know im about to be moving silently and to clarify what i mean by that is that i am giving you guys a heads up that i am about to make big moves but with little to no sound

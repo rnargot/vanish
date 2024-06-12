@@ -1,0 +1,25 @@
+.main {
+  background-image: url('./vanish.png');
+  display:block;
+  background-size:cover;
+  width: 100vw;
+  height: 175vh;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 30vw;
+}
+.title {
+  font-family: 'HIKARUMONO';
+  font-size: 36pt;
+  color:black;
+  /* transform: rotate(45deg); */
+}
+.soon {
+  font-family: 'HIKARUMONO';
+  font-size: 24pt;
+  color:black;
+}
