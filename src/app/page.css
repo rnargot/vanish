@@ -1,13 +1,15 @@
 .main {
   background-image: url('./vanish.png');
-  display:block;
+  display:flex;
+  flex-direction: column;
   background-size:cover;
-  width: 100vw;
+  width: 100%;
   height: 175vh;
+  justify-content:left;
 }
 .container {
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
   height: 100vh;
   width: 30vw;
@@ -18,6 +20,12 @@
   color:black;
   /* transform: rotate(45deg); */
 }
+.footer {
+  display: flex;
+  align-items: center;
+  width: 30vw;
+  margin-top: 50vh;
+}
 .soon {
   font-family: 'HIKARUMONO';
   font-size: 24pt;
@@ -25,4 +33,10 @@
 }
 body {
   margin: 0px;
+}
+@media (max-width: 600px) {
+  .title {
+    width: 100vw; /* Adjust width for smaller screens */
+    word-wrap: break-word; /* Enable text wrapping */
+  }
 }
