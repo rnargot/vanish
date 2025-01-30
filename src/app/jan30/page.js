@@ -1,10 +1,14 @@
+"use client";
+import { useRouter } from 'next/navigation';
 import "./page.css";
 
 export default function jan30() {
+  const router = useRouter();
+
   return (
-    <div className="main">
-    <div className="container">
-      <div className="title">opening</div>
+    <div key={router.pathname} className="page-main">
+    <div className="page-container">
+      <div className="page-title">opening</div>
       <div className="text"><pre className='text'>{`
 I created this email over a year ago, but finally defeated the perfectionism wolf today. Either my inner critic has healed some, or my passions have grown far stronger– regardless, I am excited to reopen this wonderful channel of communication: e-mail. 
 
