@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Overused Grotesk';
+    src:
+      url('../fonts/OverusedGrotesk/OverusedGrotesk-Book.ttf') format('woff2 supports variations');
+    font-weight: 300 900;
+  }
+.main {
+    background-size:cover;
+    background-color: aliceblue;
+    width: 100vw;
+    height: 150vh;
+    align-items: center;
+  }
+  .container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+  }
+  .title {
+    font-family: 'Overused Grotesk';
+    font-size: 36pt;
+    color:rgb(0, 0, 0);
+    width: 50vw;
+  }
+  .text {
+    font-family: 'Overused Grotesk';
+      font-size: 16pt;
+      color:rgb(0, 0, 0);
+      width: 50vw;
+      white-space: pre-wrap; /* Preserve whitespace but allow wrapping */
+      word-wrap: break-word; /* Break long words to prevent overflow */
+      overflow-wrap: break-word;
+  }
+  body {
+    margin: 0px;
+  }

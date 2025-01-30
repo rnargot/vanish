@@ -14,3 +14,11 @@
     url('./fonts/HIKARUMONO-Regular/HIKARUMONO-Regular.woff2') format('woff2-variations');
   font-weight: 300 900;
 }
+
+@font-face {
+  font-family: 'Overused Grotesk';
+  src:
+    url('./fonts/OverusedGrotesk/OverusedGrotesk-Book.woff2') format('woff2 supports variations'),
+    url('./fonts/OverusedGrotesk/OverusedGrotesk-Book.woff2') format('woff2-variations');
+  font-weight: 300 900;
+}
