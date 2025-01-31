@@ -1,12 +1,10 @@
 "use client";
-import { useRouter } from 'next/navigation';
 import "./page.css";
 
 export default function jan30() {
-  const router = useRouter();
 
   return (
-    <div key={router.pathname} className="page-main">
+    <div className="page-main">
     <div className="page-container">
       <div className="page-title">opening</div>
       <div className="text"><pre className='text'>{`

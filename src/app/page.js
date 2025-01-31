@@ -14,6 +14,11 @@ export default function Home() {
         <div className="entry">2.28.2025</div>
       </Link>
        </div>
+       <div className="supplements">
+       <Link href="/janpics" legacyBehavior>
+        <div className="entry">[+]</div>
+      </Link>
+       </div>
       </div>
     </div>
   );
