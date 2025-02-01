@@ -9,12 +9,12 @@ import IMG_0196 from '/public/IMG_0196.jpg'
 import IMG_0197 from '/public/IMG_0197.PNG'
 import IMG_0200 from '/public/IMG_0200.jpg'
 import IMG_0202 from '/public/IMG_0202.jpg'
-import IMG_1609 from '/public/IMG_1609.jpg'
-import IMG_8205 from '/public/IMG_8205.jpg'
+import IMG_1609 from '/public/IMG_1609.JPG'
+import IMG_8205 from '/public/IMG_8205.JPG'
 import IMG_8357 from '/public/IMG_8357.jpg'
-import IMG_8360 from '/public/IMG_8360.jpg'
-import IMG_8374 from '/public/IMG_8374.jpg'
-import IMG_8491 from '/public/IMG_8491.jpg'
+import IMG_8360 from '/public/IMG_8360.JPG'
+import IMG_8374 from '/public/IMG_8374.JPG'
+import IMG_8491 from '/public/IMG_8491.JPG'
 
 export default function janpics() {
 
