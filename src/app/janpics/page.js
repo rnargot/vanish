@@ -71,7 +71,7 @@ export default function janpics() {
                 width={500}
                 unoptimized={true}
               />
-        <div className="text"><pre className='text'>{`current ever day carries`}</pre></div>
+        <div className="text"><pre className='text'>{`current every day carries`}</pre></div>
         <Image className='disco'
                src={IMG_0202}
                alt="disco ball"
@@ -106,7 +106,7 @@ export default function janpics() {
                 height={700}
                 unoptimized={true}
               />
-        <div className="text"><pre className='text'>{`home server setup, i turned it on by putting a nail between to metal prongs omg it was exhilarating `}</pre></div>
+        <div className="text"><pre className='text'>{`home server setup, i turned it on by putting a nail between two metal prongs omg it was exhilarating `}</pre></div>
         <Image className='disco'
                src={IMG_8360}
                alt="disco ball"
