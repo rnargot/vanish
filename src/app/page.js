@@ -5,18 +5,10 @@ export default function Home() {
   return (
     <div className="main">
       <div className="container">
-        <div className="title">more of me has disappeared and i cannot breathe</div>
+        <div className="title">visions vanish</div>
        <div className="entries">
-       <Link href="/jan30" legacyBehavior>
-        <div className="entry">1.30.2025</div>
-      </Link>
-      <Link href="/feb28" legacyBehavior>
-        <div className="entry">2.28.2025</div>
-      </Link>
-       </div>
-       <div className="supplements">
-       <Link href="/janpics" legacyBehavior>
-        <div className="entry">[+]</div>
+       <Link href="/CONDITION" legacyBehavior>
+        <div className="entry">CONDITION</div>
       </Link>
        </div>
       </div>
