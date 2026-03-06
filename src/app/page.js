@@ -10,6 +10,24 @@ export default function Home() {
        <Link href="/CONDITION" legacyBehavior>
         <div className="entry">CONDITION</div>
       </Link>
+      <Link href="/feb28" legacyBehavior>
+        <div className="entry">MOMENTUM</div>
+      </Link>
+      <Link href="/feb28" legacyBehavior>
+        <div className="entry">TRIUMPH</div>
+      </Link> 
+      <Link href="/feb28" legacyBehavior>
+        <div className="entry">FREEDOM</div>
+      </Link>
+      <Link href="/feb28" legacyBehavior>
+        <div className="entry">RHYTHM</div>
+      </Link>
+      <Link href="/feb28" legacyBehavior>
+        <div className="entry">NOVELTY</div>
+      </Link>
+        <Link href="/feb28" legacyBehavior>
+        <div className="entry">INDULGENCE</div>
+      </Link>
        </div>
       </div>
     </div>
